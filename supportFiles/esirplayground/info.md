@@ -3,7 +3,7 @@
 #### 适用范围:所有虚拟机和物理机
 #### 安装器中的openwrt-gdq-version-v1.2025.-x86-64-generic-squashfs-uefi.img.gz
 #### 固件地址 192.168.31.88
-#### 用户名 `root` 密码：无
+#### 用户名 root 密码：123
 #### 默认软件包大小 1GB 
 #### 内核版本6.6.73 
 #### Luci 版本24.10.0 firewall4
